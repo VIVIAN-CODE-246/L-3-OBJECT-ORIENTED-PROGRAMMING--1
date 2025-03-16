@@ -5,4 +5,4 @@ class food:
 
 food1 = food("Rice", "Carbohydrate")
 food2 = food("Beans", "Protein")
-print("Hello, I am", food1.name, "and I am a", food1.nutrient)Sir
+print("Hello, I am", food1.name, "and I am a", food1.nutrient)
